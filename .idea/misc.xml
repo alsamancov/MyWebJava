@@ -140,10 +140,6 @@
       <Port>5050</Port>
     </configuration>
   </component>
-  <component name="SvnConfiguration" myUseAcceleration="nothing">
-    <configuration>C:\Users\Алексей\AppData\Roaming\Subversion</configuration>
-    <option name="UPDATE_LOCK_ON_DEMAND" value="true" />
-  </component>
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
