@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="MyWebForm">
+        <property name="context-root" value="MyWebForm"/>
+        <property name="java-output-path" value="/MyWebForm/build/classes"/>
+    </wb-module>
+</project-modules>

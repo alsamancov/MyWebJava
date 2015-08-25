@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="javaForm" method="get"></form>
+Type Your Name: <input type="text" name="username">
+Type Your Email: <input type="text" name="useremail">
+<input type="submit" value="Send Information" name="send_button">
+</body>
+</html>

@@ -2,6 +2,985 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86227798-8eee-4fb0-8f80-bf959bd45d6e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/test3/.markers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.projects/Lesson041/.markers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.projects/MyWebForm/.markers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.projects/JavaForm/.markers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.mylyn/.tasks.xml.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/105210318.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/105210318.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/105210318.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/105210318.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/1080672404.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1198961354.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/1198961354.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/1198961354.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/1198961354.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/1211549539.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/1294205684.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/1294205684.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/1378320587.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/1378320587.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/143243053.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/143243053.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/143243053.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/143243053.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/1468637641.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/1624790194.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1648960315.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/1648960315.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/1648960315.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/1648960315.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1667022092.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/1667022092.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/1667022092.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/1667022092.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1689280327.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/1689280327.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/1689280327.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/1689280327.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1745888252.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/1745888252.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1754038645.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/1754038645.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/1754038645.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/1754038645.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1767545500.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/1767545500.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/1767545500.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/1767545500.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1811389807.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/1811389807.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/1811389807.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/1811389807.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1913440830.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/1913440830.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/1913440830.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/1913440830.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1926144101.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/1926144101.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/1926144101.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/1926144101.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2011366150.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/2011366150.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/2011366150.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/2011366150.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/2069142749.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/2205938642.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2248287622.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/2248287622.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/2248287622.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/2248287622.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/2300521490.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2321678558.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/2321678558.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/2321678558.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/2321678558.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/2380819313.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2391436613.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/2391436613.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/2391436613.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/2391436613.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/242737373.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/242737373.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/242737373.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/242737373.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.jsdt.web.core/jssearch/2487003140.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/251782801.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/251782801.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/251782801.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/251782801.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2620426498.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/2620426498.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/2620426498.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/2620426498.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2634579158.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/2634579158.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/2634579158.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/2634579158.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/265732991.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/265732991.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/265732991.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/265732991.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2680543584.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/2680543584.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/2680543584.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/2680543584.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/2682576135.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/2686999927.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2782990105.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/2782990105.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/2782990105.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/2782990105.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2804169155.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/2804169155.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/2804169155.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/2804169155.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/285623174.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2959774643.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/2959774643.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/2959774643.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/2959774643.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/3.tree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3030942214.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/3030942214.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/3030942214.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/3030942214.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3038630371.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/3038630371.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/3038630371.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/3038630371.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f5/308e03c66c4700151c719ffa0ad838e4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3158849313.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/3158849313.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/3158849313.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/3158849313.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/3191706452.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/3191706452.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/3225267016.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3264744346.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/3264744346.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/3264744346.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/3264744346.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/3298702582.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3491804422.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/3491804422.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/3491804422.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/3491804422.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3503069151.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/3503069151.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/3503069151.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/3503069151.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/363227184.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/363227184.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/363227184.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/363227184.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/3656638330.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/3699498507.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3725082732.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/3725082732.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/3725082732.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/3725082732.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.web.core/jssearch/3803734623.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3897217985.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/3897217985.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/3897217985.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/3897217985.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/4039342660.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/4039342660.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/4039342660.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/4039342660.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/4134526084.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/4134526084.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/4134526084.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/4134526084.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/4214152424.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/4245184884.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/4245184884.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/4245184884.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/4245184884.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.jsdt.web.core/jssearch/4292571068.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/60180700.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.history/1b/601bc07844480015115dc7ef0ac3cfc3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.history/82/606f477fe34900151355e1e4a4fdb7a1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/674832863.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/674832863.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/674832863.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/674832863.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/764324133.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/78438869.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/829647748.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/829647748.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/829647748.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/829647748.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/895686216.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/897463899.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/897463899.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/897463899.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/897463899.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.jsdt.web.core/jssearch/984552984.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/out/production/ResourcesDepartment/Layouts/BorderLayout/BorderLayoutTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/out/production/ResourcesDepartment/Layouts/BoxLayout/BoxLayoutTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/out/production/ResourcesDepartment/Layouts/FlowLayout/FlowLayoutTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/out/production/ResourcesDepartment/students/logic/MainFrame$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/out/production/ResourcesDepartment/students/logic/MainFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/out/artifacts/MyFirstWebProject_war_exploded2/WEB-INF/classes/main/java/servlets/MyServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/out/production/MyFirstWebProject/main/java/servlets/MyServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/out/artifacts/SimpleWebApplication_war_exploded/WEB-INF/classes/ua/com/tufts/web/servlets/Redirect.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/out/production/SimpleWebApplication/ua/com/tufts/web/servlets/Redirect.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/out/artifacts/ourdemo_war_exploded/WEB-INF/classes/com/tufts/samples/ShalomServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/out/production/ourdemo/com/tufts/samples/ShalomServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/out/production/ResourcesDepartment/students/logic/Student.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.indexes/af/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.indexes/b3/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/test3/.indexes/5b/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/test3/.indexes/5b/a8/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/test3/.indexes/af/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/test3/.indexes/e4/96/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.projects/Lesson041/.indexes/5b/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.projects/Lesson041/.indexes/5b/a8/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.projects/Lesson041/.indexes/af/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.projects/Lesson041/.indexes/e4/cd/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.indexes/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.indexes/b3/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.projects/MyWebForm/.indexes/5b/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.projects/MyWebForm/.indexes/5b/a8/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.projects/MyWebForm/.indexes/af/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.projects/MyWebForm/.indexes/e4/8c/81/44/c4/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.indexes/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.indexes/b3/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.projects/JavaForm/.indexes/5b/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.projects/JavaForm/.indexes/5b/a8/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.projects/JavaForm/.indexes/af/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.projects/JavaForm/.indexes/e4/81/44/c4/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.indexes/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.indexes/b3/history.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWebForm/out/artifacts/MyWebForm_war_exploded/WEB-INF/classes/ua/com/tufts/form/javaForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWebForm/out/production/MyWebForm/ua/com/tufts/form/javaForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/out/artifacts/aForm_war_exploded/WEB-INF/classes/com/tufts/form/javaForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/out/production/aForm/com/tufts/form/javaForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/publish/publish0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.server.core/publish/publish0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.server.core/publish/publish0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.server.core/publish/publish0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.mylyn/repositories.xml.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.mylyn/repositories.xml.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.mylyn/repositories.xml.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.mylyn/repositories.xml.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.mylyn/.taskListIndex/segments.gen" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.mylyn/.taskListIndex/segments_1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/test3/org.eclipse.jdt.core/state.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/test3/org.eclipse.wst.jsdt.core/state.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.projects/Lesson041/org.eclipse.jdt.core/state.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.projects/Lesson041/org.eclipse.wst.jsdt.core/state.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.projects/MyWebForm/org.eclipse.jdt.core/state.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.projects/MyWebForm/org.eclipse.wst.jsdt.core/state.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.projects/JavaForm/org.eclipse.jdt.core/state.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.projects/JavaForm/org.eclipse.wst.jsdt.core/state.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.mylyn/tasks.xml.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/out/artifacts/MyTest/WEB-INF/classes/com/tufts/example/webApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/out/artifacts/test_war_exploded/WEB-INF/classes/com/tufts/example/webApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/out/production/test/com/tufts/example/webApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jst.j2ee.web/webLibrariesCache.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jst.j2ee.web/webLibrariesCache.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jst.j2ee.web/webLibrariesCache.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jst.j2ee.web/webLibrariesCache.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/out/artifacts/test2_war_exploded/WEB-INF/classes/com/tufts/sample/webServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/out/production/test2/com/tufts/sample/webServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Lesson041/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/MyWebForm/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/JavaForm/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test3/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Lesson041/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/MyWebForm/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/JavaForm/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test3/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Lesson041/.settings/.jsdtscope" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/MyWebForm/.settings/.jsdtscope" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/JavaForm/.settings/.jsdtscope" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/.settings/.jsdtscope" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test3/.settings/.jsdtscope" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.settings/.jsdtscope" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.rse.core/.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.rse.ui/.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.rse.core/.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.rse.ui/.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.rse.core/.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.rse.ui/.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.rse.core/.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.rse.ui/.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormWebApp/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWebForm/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Lesson041/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/RemoteSystemsTempFiles/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Servers/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RemoteSystemsTempFiles/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servers/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/MyWebForm/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/RemoteSystemsTempFiles/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/Servers/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/JavaForm/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/RemoteSystemsTempFiles/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/Servers/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test3/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.history/c6/0076a483e54900151355e1e4a4fdb7a1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/2f/00d90eb66a4700151c719ffa0ad838e4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.history/67/1044e61edf4900151355e1e4a4fdb7a1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.history/a0/104e1dc242480015115dc7ef0ac3cfc3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e2/1077e2fe6d4700151c719ffa0ad838e4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.history/92/10833b07a84a00151ba4dac1787d81a2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.history/44/10a70266a44a00151ba4dac1787d81a2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.history/c3/10e88f65a44a00151ba4dac1787d81a2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.history/38/20449c65a44a00151ba4dac1787d81a2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.history/af/205d0066a44a00151ba4dac1787d81a2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.history/e6/20643fc0a44a00151ba4dac1787d81a2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.history/d8/20dc1f21aa4a00151ba4dac1787d81a2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.history/be/302ab686e24900151355e1e4a4fdb7a1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/89/30302dfc6f4700151c719ffa0ad838e4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.history/a4/3033be5248480015115dc7ef0ac3cfc3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.history/3d/305e3aafe34900151355e1e4a4fdb7a1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.history/b8/3065bec142480015115dc7ef0ac3cfc3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.history/40/307d35e4e44900151355e1e4a4fdb7a1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/3191706452.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.history/5/404c7504aa4a00151ba4dac1787d81a2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.history/12/40c8b4c142480015115dc7ef0ac3cfc3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.history/e/50df87aa46480015115dc7ef0ac3cfc3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.history/6b/604a320ae34900151355e1e4a4fdb7a1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.history/52/7001bfc142480015115dc7ef0ac3cfc3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.history/74/702d5011df4900151355e1e4a4fdb7a1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.history/11/70439365a44a00151ba4dac1787d81a2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.history/bb/802d9b6545480015115dc7ef0ac3cfc3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.history/17/806f143e48480015115dc7ef0ac3cfc3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.history/df/8074a9b5ac4a00151ba4dac1787d81a2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f1/90a228b66a4700151c719ffa0ad838e4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f9/90bb23e2704700151c719ffa0ad838e4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/5a/90dd79d46a4700151c719ffa0ad838e4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.history/55/90ec5a3fe54900151355e1e4a4fdb7a1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.history/c1/90f720c242480015115dc7ef0ac3cfc3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/src/Layouts/BorderLayout/BorderLayoutTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/src/Layouts/BoxLayout/BoxLayoutTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/src/Layouts/FlowLayout/FlowLayoutTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormWebApp/FormWebApp.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormWebApp/.idea/artifacts/FormWebApp_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/org.eclipse.egit.core/GitProjectData.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/org.eclipse.egit.core/GitProjectData.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/test3/org.eclipse.egit.core/GitProjectData.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.projects/Lesson041/org.eclipse.egit.core/GitProjectData.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/org.eclipse.egit.core/GitProjectData.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/org.eclipse.egit.core/GitProjectData.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.projects/MyWebForm/org.eclipse.egit.core/GitProjectData.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/org.eclipse.egit.core/GitProjectData.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/org.eclipse.egit.core/GitProjectData.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.projects/JavaForm/org.eclipse.egit.core/GitProjectData.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/org.eclipse.egit.core/GitProjectData.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/org.eclipse.egit.core/GitProjectData.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/src/Layouts/GridLayout/GridLayoutTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.debug.core/.launches/JavaForm.launch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Lesson041/src/helloservlet/Lesson041.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Lesson041/WebContent/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/MyWebForm/WebContent/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/JavaForm/WebContent/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/WebContent/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test3/WebContent/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/WebContent/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/src/students/logic/MainFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/.idea/libraries/Maven__javaee_javaee_api_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/.idea/libraries/Maven__javax_javaee_web_api_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/.idea/libraries/Maven__javax_servlet_servlet_api_3_0_alpha_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/MyFirstWebProject.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/.idea/artifacts/MyFirstWebProject_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/.idea/artifacts/MyFirstWebProject_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/.idea/artifacts/MyFirstWebProject_war_exploded2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/src/main/java/servlets/MyServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.idea/artifacts/MyTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/.idea/runConfigurations/MyTom_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWebForm/MyWebForm.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWebForm/.idea/artifacts/MyWebForm_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/src/ua/com/tufts/web/servlets/Redirect.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/ResourcesDepartment.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/src/com/tufts/samples/ShalomServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/SimpleWebApplication.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/.idea/artifacts/SimpleWebApplication_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/src/students/logic/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Tomcat v7.0 Server at localhost.launch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.debug.core/.launches/Tomcat v7.0 Server at localhost.launch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.debug.core/.launches/Tomcat v7.0 Server at localhost.launch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.debug.core/.launches/Tomcat v7.0 Server at localhost.launch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Servers/Tomcat v7.0 Server at localhost.server" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servers/Tomcat v7.0 Server at localhost.server" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/Servers/Tomcat v7.0 Server at localhost.server" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/Servers/Tomcat v7.0 Server at localhost.server" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.debug.core/.launches/_Lesson041.launch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.history/65/a03bb786e24900151355e1e4a4fdb7a1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/31/a05f10b66a4700151c719ffa0ad838e4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.history/81/a0750ef8df4900151355e1e4a4fdb7a1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/52/a0c883d46a4700151c719ffa0ad838e4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/aForm.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.idea/artifacts/aForm_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.history/25/b0129d49e44900151355e1e4a4fdb7a1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.history/af/b04ab8c142480015115dc7ef0ac3cfc3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.history/a9/b059e51edf4900151355e1e4a4fdb7a1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.history/33/b0a1a568e24900151355e1e4a4fdb7a1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/b2/b0ca2f966d4700151c719ffa0ad838e4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.history/48/b0cf0464ae4a00151ba4dac1787d81a2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e6/c03c0eb66a4700151c719ffa0ad838e4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.history/87/c0599b65a44a00151ba4dac1787d81a2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.history/ee/c0d25511df4900151355e1e4a4fdb7a1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.history/e9/c0d77d04aa4a00151ba4dac1787d81a2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.history/1e/c0d7d6c843480015115dc7ef0ac3cfc3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Servers/Tomcat v7.0 Server at localhost-config/catalina.policy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servers/Tomcat v7.0 Server at localhost-config/catalina.policy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/Servers/Tomcat v7.0 Server at localhost-config/catalina.policy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/Servers/Tomcat v7.0 Server at localhost-config/catalina.policy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Servers/Tomcat v7.0 Server at localhost-config/catalina.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servers/Tomcat v7.0 Server at localhost-config/catalina.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/Servers/Tomcat v7.0 Server at localhost-config/catalina.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/Servers/Tomcat v7.0 Server at localhost-config/catalina.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormWebApp/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWebForm/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Servers/Tomcat v7.0 Server at localhost-config/context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servers/Tomcat v7.0 Server at localhost-config/context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/Servers/Tomcat v7.0 Server at localhost-config/context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/Servers/Tomcat v7.0 Server at localhost-config/context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.history/e2/d073a0b5ac4a00151ba4dac1787d81a2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/61/d0797ad46a4700151c719ffa0ad838e4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.history/8d/d086836545480015115dc7ef0ac3cfc3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.history/4e/d0c31364ae4a00151ba4dac1787d81a2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/37/d0d410b66a4700151c719ffa0ad838e4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jst.j2ee.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.sse.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.debug.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jst.j2ee.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.sse.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jst.j2ee.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.sse.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jst.j2ee.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.sse.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormWebApp/out/artifacts/FormWebApp_war_exploded/display.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormWebApp/web/display.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.history/53/e0b4d4c843480015115dc7ef0ac3cfc3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormWebApp/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWebForm/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.history/53/f00a3747af4a00151ba4dac1787d81a2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.history/b0/f0263dc043480015115dc7ef0ac3cfc3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.history/32/f0475611df4900151355e1e4a4fdb7a1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.history/b5/f0655111df4900151355e1e4a4fdb7a1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8/f08c29b66a4700151c719ffa0ad838e4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.history/3f/f0a8222446480015115dc7ef0ac3cfc3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.history/7a/f0f51c21aa4a00151ba4dac1787d81a2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/out/artifacts/ourdemo_war_exploded/hello.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/web/hello.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWebForm/out/artifacts/MyWebForm_war_exploded/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWebForm/web/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/MyWebForm/WebContent/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/JavaForm/WebContent/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/out/artifacts/aForm_war_exploded/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/web/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test3/WebContent/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/WebContent/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormWebApp/out/artifacts/FormWebApp_war_exploded/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormWebApp/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/out/artifacts/MyFirstWebProject_war_exploded2/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/out/artifacts/MyFirstWebProject_war_exploded2/WEB-INF/classes/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/out/production/MyFirstWebProject/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/out/artifacts/SimpleWebApplication_war_exploded/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/out/artifacts/aForm_war_exploded/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/out/artifacts/ourdemo_war_exploded/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/out/artifacts/test2_war_exploded/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/out/artifacts/MyTest/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/out/artifacts/test_war_exploded/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/invalidArchivesCache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/invalidArchivesCache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/invalidArchivesCache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/invalidArchivesCache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWebForm/src/ua/com/tufts/form/javaForm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/JavaForm/src/com/tufts/form/javaForm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/src/com/tufts/form/javaForm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/logs/localhost_access_log.2015-08-24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.server.core/tmp1/logs/localhost_access_log.2015-08-24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/logs/localhost_access_log.2015-08-25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.4.0.20130601-0317.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.4.0.20130601-0317.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.4.0.20130601-0317.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.4.0.20130601-0317.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormWebApp/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWebForm/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormWebApp/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWebForm/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/monitors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.server.core/monitors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.server.core/monitors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.server.core/monitors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.denis_16/node.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.denis_16/FP.local.files_0/node.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.denis_16/H.local_16/node.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.denis_16/node.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.denis_16/FP.local.files_0/node.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.denis_16/H.local_16/node.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.denis_16/node.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.denis_16/FP.local.files_0/node.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.denis_16/H.local_16/node.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.denis_16/node.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.denis_16/FP.local.files_0/node.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.denis_16/H.local_16/node.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Lesson041/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/MyWebForm/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/JavaForm/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test3/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.server.tomcat.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.server.tomcat.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.server.tomcat.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.server.tomcat.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.pde.api.tools.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.pde.api.tools.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.pde.api.tools.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.pde.api.tools.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.cvs.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.cvs.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.cvs.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.cvs.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Lesson041/.settings/org.eclipse.wst.common.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/MyWebForm/.settings/org.eclipse.wst.common.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/JavaForm/.settings/org.eclipse.wst.common.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/.settings/org.eclipse.wst.common.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test3/.settings/org.eclipse.wst.common.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.settings/org.eclipse.wst.common.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Lesson041/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/MyWebForm/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/JavaForm/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test3/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.html.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.html.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.html.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.html.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Lesson041/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/MyWebForm/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/JavaForm/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test3/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Lesson041/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/MyWebForm/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/JavaForm/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test3/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.web.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.web.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.web.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.web.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.server.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.server.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Servers/.settings/org.eclipse.wst.server.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servers/.settings/org.eclipse.wst.server.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.server.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/Servers/.settings/org.eclipse.wst.server.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.server.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/Servers/.settings/org.eclipse.wst.server.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.server.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.ws.service.policy.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.ws.service.policy.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.ws.service.policy.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.ws.service.policy.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xml.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xml.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xml.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xml.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/ourdemo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/.idea/artifacts/ourdemo_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormWebApp/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWebForm/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/test3/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.projects/Lesson041/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.projects/Lesson041/.indexes/5b/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.projects/MyWebForm/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.projects/JavaForm/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/publish.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.server.core/tmp1/publish.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.server.core/tmp2/publish.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/publish.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/publish.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.server.core/publish.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.server.core/publish.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.server.core/publish.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/out/artifacts/SimpleWebApplication_war_exploded/redirect.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/web/redirect.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2015/8/34/refactorings.history" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2015/8/34/refactorings.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Lesson041/WebContent/sayhallo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormWebApp/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWebForm/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Servers/Tomcat v7.0 Server at localhost-config/server.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servers/Tomcat v7.0 Server at localhost-config/server.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/Servers/Tomcat v7.0 Server at localhost-config/server.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/Servers/Tomcat v7.0 Server at localhost-config/server.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/servers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.server.core/servers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.server.core/servers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.server.core/servers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/test2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/.idea/artifacts/test2_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/test3.launch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp-data.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.server.core/tmp-data.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.server.core/tmp-data.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.server.core/tmp-data.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Servers/Tomcat v7.0 Server at localhost-config/tomcat-users.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servers/Tomcat v7.0 Server at localhost-config/tomcat-users.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/Servers/Tomcat v7.0 Server at localhost-config/tomcat-users.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/Servers/Tomcat v7.0 Server at localhost-config/tomcat-users.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWebForm/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormWebApp/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWebForm/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/version.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/version.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/version.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/version.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Lesson041/WebContent/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/Servers/Tomcat v7.0 Server at localhost-config/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormWebApp/out/artifacts/FormWebApp_war_exploded/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormWebApp/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/out/artifacts/MyFirstWebProject_war_exploded2/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWebForm/out/artifacts/MyWebForm_war_exploded/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWebForm/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servers/Tomcat v7.0 Server at localhost-config/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/out/artifacts/SimpleWebApplication_war_exploded/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/MyWebForm/WebContent/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/Servers/Tomcat v7.0 Server at localhost-config/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/JavaForm/WebContent/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/Servers/Tomcat v7.0 Server at localhost-config/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/out/artifacts/aForm_war_exploded/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/out/artifacts/ourdemo_war_exploded/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/WebContent/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/out/artifacts/test2_war_exploded/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test3/WebContent/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/WebContent/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/out/artifacts/MyTest/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/out/artifacts/test_war_exploded/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test3/src/example/webApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/src/com/tufts/example/webApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/src/com/tufts/sample/webServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FormWebApp/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstWebProject/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWebForm/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResourcesDepartment/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleWebApplication/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourdemo/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Banas/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm2/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aForm/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MyWebJava.iws" />
@@ -28,7 +1007,7 @@
       <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65384614" vertical-offset="0" max-vertical-offset="476">
+            <state vertical-scroll-proportion="0.5405405" vertical-offset="69" max-vertical-offset="476">
               <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
@@ -60,10 +1039,9 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="x" value="800" />
+    <option name="width" value="800" />
+    <option name="height" value="860" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -111,20 +1089,6 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FormsWebJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyWebJava" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -163,19 +1127,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -202,6 +1153,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -337,6 +1301,11 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="SvnConfiguration" myUseAcceleration="nothing">
     <configuration>C:\Users\Саманцов\AppData\Roaming\Subversion</configuration>
     <option name="UPDATE_LOCK_ON_DEMAND" value="true" />
@@ -353,7 +1322,10 @@
       <workItem from="1434567108442" duration="514000" />
       <workItem from="1434570965427" duration="85000" />
       <workItem from="1434643911352" duration="722000" />
-      <workItem from="1434653858070" duration="21000" />
+      <workItem from="1434653858070" duration="106000" />
+      <workItem from="1434737402082" duration="2352000" />
+      <workItem from="1434774326159" duration="837000" />
+      <workItem from="1440526841556" duration="503000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1434536164474</created>
@@ -367,18 +1339,22 @@
       <created>1434571027515</created>
       <updated>1434571027515</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4 commit">
+      <created>1434653903974</created>
+      <updated>1434653903974</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5562000" />
+    <option name="totallyTimeSpent" value="9339000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="800" y="0" width="800" height="860" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31015298" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.320059" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -397,7 +1373,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1092545" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20675676" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33480826" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -425,7 +1401,9 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="2 commit" />
     <MESSAGE value="3 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 commit" />
+    <MESSAGE value="4 commit" />
+    <MESSAGE value="5 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -435,6 +1413,30 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="476">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="476">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="476">
@@ -493,7 +1495,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65384614" vertical-offset="0" max-vertical-offset="476">
+        <state vertical-scroll-proportion="0.5405405" vertical-offset="69" max-vertical-offset="476">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>

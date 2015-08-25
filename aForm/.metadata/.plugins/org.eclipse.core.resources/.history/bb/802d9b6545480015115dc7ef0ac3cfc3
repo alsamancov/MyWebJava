@@ -1,0 +1,7 @@
+package com.tufts.form;
+
+import javax.servlet.http.HttpServlet;
+
+public class javaForm extends HttpServlet {
+
+}
